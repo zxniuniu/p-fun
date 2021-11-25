@@ -25,6 +25,7 @@
     "delay": "*",
     "hard-rejection": "*",
     "loud-rejection": "*",
+    "make-synchronous": "*",
     "p-all": "*",
     "p-any": "*",
     "p-break": "*",

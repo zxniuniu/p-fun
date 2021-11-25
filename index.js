@@ -23,6 +23,7 @@ module.exports = {
   locate: require('p-locate'),
   log: require('p-log'),
   loudRejection: require('loud-rejection'),
+  makeSync: require('make-synchronous'),
   map: require('p-map'),
   mapSeries: require('p-map-series'),
   memoize: require('p-memoize'),
