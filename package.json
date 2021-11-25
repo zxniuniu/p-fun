@@ -16,10 +16,10 @@
     "async/await"
   ],
   "bugs": {
-    "url": "https://github.com/Kladdkaka/p-fun/issues"
+    "url": "https://github.com/zxniuniu/p-fun/issues"
   },
-  "repository": "Kladdkaka/p-fun",
-  "author": "Kladdkaka",
+  "repository": "zxniuniu/p-fun",
+  "author": "zxniuniu",
   "license": "MIT",
   "dependencies": {
     "delay": "*",
